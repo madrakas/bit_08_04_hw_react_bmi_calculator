@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+  font-family: "Consolas";
+}
+:root {
+  --color: rgb(255, 255, 255);
+  --bg: rgb(33, 34, 44);
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color);
+  background: var(--bg);
+}
+
+.App {
+  width: 800px;
+  padding: 0 50px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+#input form {
+  display: flex;
+  flex-direction: column;
+}
+
+#input form label {
+  font-size: 1.5rem;
+}
+
+#input form input {
+  color: var(--color);
+  margin-bottom: 30px;
+  margin-top: 10px;
+  padding: 5px 10px;
+  background: var(--bg);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 2px solid var(--color);
+  font-size: 2rem;
+}
+
+#input form input:focus {
+  outline: 1px solid var(--color);
+}
+
+#output {
+  text-align: center;
+}
+
+#verdict {
+  font-style: italic;
+}
+
+button {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 10px 40px;
+  border-radius: 5px;
+  border: 3px solid rgb(74, 76, 91);
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+button:hover {
+  background: rgb(74, 76, 91);
+  color: white;
+  border: 3px solid white;
+}

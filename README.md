@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Static Badge](https://img.shields.io/badge/%20Coffe-Free-yellow)
+![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
+[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# BIT Full stack developer course – Part 8. Practice No.4: React BMI calculator.
 
-## Available Scripts
+_My journey to become a full stack developer_
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+## 🌟 About
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project is a part of my workbook from Full stack developers course at BIT This is the 8th part of the course – Practice No.4: React BMI calculator.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-### `npm test`
+View deployed result on [my github](https://madrakas.github.io/bit_08_04_hw_react_bmi_calculator)
 
-Launches the test runner in the interactive watch mode.\
+## 🧭 Other repositories from same course
+1. [General programming skills and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
+2. [Intro to HTML and CS](https://github.com/madrakas/bit_02_Intro_to_html/)
+3. [HTML and CSS basics, UFO 404 page](https://github.com/madrakas/bit_03_html-ufo)
+4. [HTML and CSS,  Real Estate Website](https://github.com/madrakas/bit_04_html_real_estate/)
+    1. [Practice No.1: Photographer website](https://github.com/madrakas/bit_04_01_homework_photographer)
+    2. [Practice No.2: Collab landing page](https://github.com/madrakas/bit_04_01_homework_colab/)
+5. [JavaScript HTML DOM intro](https://github.com/madrakas/bit_05_dom_intro)
+6. [JavaScript Kanban website](https://github.com/madrakas/bit_06_js-kanban)
+    1. [Practice No.1: Random color app](https://github.com/madrakas/bit_06_01_homework_random_color_app)
+    2. [Practice No.2: Simple JS game](https://github.com/madrakas/bit_06_02_homework_simple-game/)
+7. [React intro](https://github.com/madrakas/bit_07_react_intro)
+    1. [Practice No.1. React page design](https://github.com/madrakas/bit_07_01_homework_simple-react-page-design)
+    2. [Practice No.2. React calculator](https://github.com/madrakas/bit_07_02_homework_calculator)
+8. [React + Bootstrap website](https://github.com/madrakas/bit_08_bootstrap-site/)
+    1. [Practice No.1: React + bootstrap Investment calculator](https://github.com/madrakas/bit_08_01_hw_react_bootstrap_invest_calc/)
+    2. [Practice No.2: React countries API](https://github.com/madrakas/bit_08_02_hw_react_countries)
+    3. [Practice No.3: React use context app](https://github.com/madrakas/bit_08_03_hw_react-usecontext-app)
+    4. Practice No.4: React BMI calculator (current repository)
+9. [Intro to backend. Quick JS overview](https://github.com/madrakas/bit_09_backend-intro/)
+
+## 🎯 Project features/goals
+
+*   Learn:
+    *   React
+        
+## 🧰 Getting Started
+
+### 💻 Prerequisites
+
+Node.js - _download and install_
+
+```
+https://nodejs.org
+```
+
+Git - _download and install_
+
+```
+https://git-scm.com
+```
+### 🏃 Run locally
+
+Would like to run this project locally? Open terminal and follow these steps:
+
+1. Clone the repo
+    ```sh
+    git clone https://github.com/madrakas/bit_08_01_hw_react_bootstrap_invest_calc.git
+    ```
+2. Install NPM packages
+    ```sh
+    npm i
+    ```
+    or
+    ```sh
+    npm install
+    ```
+3. Run the app in the development mode.
+    ```
+    npm start
+    ```
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
+   The page will reload when you make changes.\
+    You may also see any lint errors in the console.
+
+### 🧪 Running tests
+
+Launch the test runner in the interactive watch mode.
+```
+npm test
+```
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 🎅 Authors
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Arvydas [Github](https://github.com/madrakas)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ⚠️ License
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Distributed under the MIT License. See LICENSE.txt for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔗 Other resources
+* [Create React App](https://create-react-app.dev/)

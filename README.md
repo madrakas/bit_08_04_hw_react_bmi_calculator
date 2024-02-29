@@ -35,9 +35,16 @@ View deployed result on [my github](https://madrakas.github.io/bit_08_04_hw_reac
     1. [Practice No.1: React + bootstrap Investment calculator](https://github.com/madrakas/bit_08_01_hw_react_bootstrap_invest_calc/)
     2. [Practice No.2: React countries API](https://github.com/madrakas/bit_08_02_hw_react_countries)
     3. [Practice No.3: React use context app](https://github.com/madrakas/bit_08_03_hw_react-usecontext-app)
-    4. Practice No.4: React BMI calculator (current repository)
+    4. Practice No.4: React BMI calculator (curerent repository)
 9. [Intro to backend. Quick JS overview](https://github.com/madrakas/bit_09_backend-intro/)
-
+10. [Backend intro. React](https://github.com/madrakas/bit_10_backend_intro_react)
+11. [Backend. PHP](https://github.com/madrakas/bit_11_backend_php/)
+    1. [Practice No.1. Bank V1](https://github.com/madrakas/bit_11_01_hw_bank_v1)
+12. [MVC, Webmix](https://github.com/madrakas/bit_12_webmix_oop_php)
+    1. [Practice No.1. Bank V2](https://github.com/madrakas/bit_12_01_hw_bank_v2_mvc_webmix/)
+13. [Intro to Laravel](https://github.com/madrakas/bit_13_intro_to_laravel)
+14. [Deeper into Laravel](https://github.com/madrakas/bit_14_deeper_into_laravel) 
+    1. [Practice No.1. Bank V3](https://github.com/madrakas/bit_14_01_laravel_bank)
 ## 🎯 Project features/goals
 
 *   Learn:
